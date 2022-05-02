@@ -1,0 +1,5 @@
+{"name":"morpheus","job":"leader","id":"745","createdAt":"2022-05-01T10:08:22.183Z"}
+{'Date': 'Sun, 01 May 2022 10:08:22 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '84', 'Connection': 'keep-alive', 'X-Powered-By': 'Express', 'Access-Control-Allow-Origin': '*', 'Etag': 'W/"54-DT9W01OIEt1rlcA30zjNUcge/Z4"', 'Via': '1.1 vegur', 'CF-Cache-Status': 'DYNAMIC', 'Expect-CT': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"', 'Report-To': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=5Zjl76ghD7u6u8KanhshJE4DaFdrpMdrqG%2Fp2L7mkAzc2JeXqAh93BxoMd5D01mu%2Br%2BNh4GFnyQyzdPGcMixLhu47OwuWDhEYqPoEUrNBQORAq5mbjkqrhAf%2FiA%3D"}],"group":"cf-nel","max_age":604800}', 'NEL': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'Server': 'cloudflare', 'CF-RAY': '7047b72a79148867-LHR', 'alt-svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400'}
+['2022-05-01T10:08:22.183Z']
+['745']
+['leader']
