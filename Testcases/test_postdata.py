@@ -42,7 +42,7 @@ def test_postData(api_settingfunction):
         'H2' : 'bye'
     }
 
-    file = open('F:/Selenium/API_Pytest_Demo_Testing/data_files/Postdata.json', 'r')
+    file = open('/data_files/Postdata.json', 'r')
     payload = json.loads(file.read())
     res = requests.post(api_url, payload, headers = headers)
     print(res.text)
@@ -75,7 +75,7 @@ def test_url_with_params(api_settingfunction):
     print(response.text)
 
 def test_put_api_function():
-    file = open("F:/Selenium/API_Pytest_Demo_Testing/data_files/Putdata.json", 'r')
+    file = open("/data_files/Putdata.json", 'r')
     payload = json.loads(file.read())
     response = requests.put(api_url, payload)
     print(response.json())
